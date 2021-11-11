@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello from 🇸🇬 👋
 
-<!--
-**hjwalt/hjwalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I
 
-Here are some ideas to get you started:
+- Mostly do software engineering 💿
+- Like learning cyber security 🐞
+- Am building data systems recently 🕸️
+- Build my owm PC 🖥️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun stuff these days
+
+- Rustlang 🦀
+- Java native (GraalVM) ☕
+- Java fiber (Loom) 📃
+
+## Looking for help with
+
+- Contributing to open source especially in Flink ecosystem 🐿️
+
+## Reaching me
+
+- [LinkedIn](https://www.linkedin.com/in/hadywilli/)
