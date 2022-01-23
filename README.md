@@ -15,7 +15,7 @@
 
 ## Looking for help with
 
-- Contributing to open source especially in Flink ecosystem 🐿️
+- Contributing to open source
 
 ## Reaching me
 
