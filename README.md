@@ -10,6 +10,7 @@
 ## Fun stuff these days
 
 - Rustlang 🦀
+- Reactive lambdas
 - Java native (GraalVM) ☕
 - Java fiber (Loom) 📃
 
