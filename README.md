@@ -21,3 +21,4 @@
 ## Reaching me
 
 - [LinkedIn](https://www.linkedin.com/in/hadywilli/)
+- [Email](mailto:hady.willi@outlook.com)
