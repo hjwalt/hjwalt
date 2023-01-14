@@ -4,7 +4,7 @@
 
 - Mostly do software engineering 💿
 - Like learning cyber security 🐞
-- Am building data systems recently 🕸️
+- Engineer data systems 🕸️
 - Build my owm PC 🖥️
 
 ## Fun stuff these days
@@ -13,6 +13,7 @@
 - Reactive lambdas
 - Java native (GraalVM) ☕
 - Java fiber (Loom) 📃
+- Streaming databases
 
 ## Looking for help with
 
