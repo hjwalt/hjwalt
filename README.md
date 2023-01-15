@@ -5,7 +5,7 @@
 - Mostly do software engineering 💿
 - Like learning cyber security 🐞
 - Engineer data systems 🕸️
-- Build my owm PC 🖥️
+- Build my own PC 🖥️
 
 ## Fun stuff these days
 
