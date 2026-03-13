@@ -1,25 +1,6 @@
-# Hello from 🇸🇬 👋
+# Hello 👋
 
-## I
-
-- Mostly do software engineering 💿
-- Like learning cyber security 🐞
-- Engineer data systems 🕸️
-- Build my own PC 🖥️
-
-## Fun stuff these days
-
-- Rustlang 🦀
-- Reactive lambdas
-- Java native (GraalVM) ☕
-- Java fiber (Loom) 📃
-- Streaming databases
-
-## Looking for help with
-
-- Contributing to open source
-
-## Reaching me
+How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/hadywilli/)
-- [Email](mailto:hady.willi@outlook.com)
+- [Email](mailto:anon1.puritan341@passinbox.com) (don't worry it is an anonymous inbox, so you'll still reach me)
